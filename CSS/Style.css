@@ -1,0 +1,75 @@
+body {
+    background-color: #E8FFC2;
+}
+
+h1 {
+    color: #0E3EDA;
+}
+
+h2 {
+    color: purple;
+}
+
+h3 {
+    color: red;
+}
+
+p {
+    color: darkmagenta;
+}
+
+li {
+    color: green;
+}
+
+td {
+    color: orangered;
+}
+
+hr {
+    background-color: white;
+    border-style: none;
+    border-color: grey;
+    border-top-style: dotted;
+    border-width: 10px;
+    width: 30%;
+}
+
+/**********************TAG SELECTOR ***************************/
+
+/*
+h2 {
+    color: red;
+}
+
+img {
+     background-color: red;
+}
+
+*/
+
+/**********************CLASS SELECTOR ***************************/
+/* if the photo is 2 and you want to change the color of both the photo then use Class attribute
+
+.bacon {
+    background-color: green;
+        }
+
+.brocoli {
+    background-color: red;
+        }
+
+*/
+
+/**********************ID SELECTOR ***************************/
+/* for changing the color of h1 element 
+
+write in html page also such as <p id="heading"> i m from bsf </p> 
+
+#heading {
+    color: blue;
+}
+
+*/
+
+
